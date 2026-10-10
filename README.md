@@ -82,3 +82,7 @@ autorización real la aplica el backend.
 - `main` y `stage`: ramas estables.
 - `develop`: integración.
 - `feature_*`: cambios individuales, que se integran a `develop`.
+
+## Despliegue
+
+https://mini-rh-master.vercel.app
